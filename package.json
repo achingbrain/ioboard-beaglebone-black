@@ -1,0 +1,25 @@
+{
+  "name": "ioboard-beaglebone-black",
+  "version": "1.0.0",
+  "description": "Implements ioboard for the BeagleBone Black",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/achingbrain/ioboard-beaglebone-black.git"
+  },
+  "dependencies": {
+    "ioboard": "^3.0.0",
+    "async": "^0.7"
+  },
+  "keywords": [
+    "node",
+    "firmata",
+    "servo",
+    "ssc",
+    "beaglebone",
+    "black"
+  ],
+  "author": "Alex Potsides",
+  "license": "BSD",
+  "readmeFilename": "Readme.md"
+}
