@@ -14,10 +14,6 @@ bone.on("ready", function() {
   var led = new five.Led(30);
   led.strobe();
 });
-
-process.on('exit', function() {
-  bone.reset();
-});
 ```
 
 ## Pin numbers

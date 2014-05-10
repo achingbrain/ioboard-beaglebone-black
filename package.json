@@ -9,17 +9,20 @@
   },
   "dependencies": {
     "ioboard": "^3.0.0",
-    "async": "^0.7"
+    "async": "^0.7",
+    "map-range": "^0.1"
   },
   "keywords": [
     "node",
     "firmata",
     "servo",
-    "ssc",
     "beaglebone",
-    "black"
+    "black",
+    "io",
+    "ioboard"
   ],
-  "author": "Alex Potsides",
-  "license": "BSD",
-  "readmeFilename": "Readme.md"
+  "author": {
+    "name": "Alex Potsides"
+  },
+  "license": "BSD"
 }
